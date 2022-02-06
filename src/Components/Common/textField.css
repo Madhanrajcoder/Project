@@ -1,0 +1,11 @@
+.text-box{
+    background-color: brown;
+  
+}
+.text-box *{
+    display: block;
+    width: 100%;
+}
+.error-msg{
+    color: aqua;
+}
